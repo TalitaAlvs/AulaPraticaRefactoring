@@ -41,4 +41,8 @@ public class Movie {
                 break;
         }
     }
+
+    public int getFrequentRenterPoints(int daysRented) {
+        
+    }
 }
